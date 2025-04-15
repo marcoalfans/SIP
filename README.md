@@ -250,3 +250,149 @@ Representasi sistem (fungsi, perangkat keras, perangkat lunak, dan interaksi man
 - Tahapan: riset → kebutuhan → RFI → RFB → seleksi → kontrak
 - TCO jadi penilaian utama
 - Dokumen, diskusi, dan demo penting untuk keputusan pembelian
+
+# 📘 Week 5 – Blockchain Technology in Enterprise
+
+## 🎯 Tujuan Pembelajaran
+- Memahami kebutuhan dan definisi blockchain
+- Menjelaskan fitur utama dan cara kerja blockchain
+- Mengidentifikasi aplikasi blockchain di bisnis dan pemerintahan
+- Mengenali tantangan dan keterbatasan teknologi blockchain
+
+---
+
+## 🔐 Apa itu Blockchain?
+- Buku besar digital terdistribusi dan tidak dapat diubah
+- Semua peserta jaringan memiliki salinan ledger
+- Cocok untuk pencatatan aset, transaksi, dan kontrak
+
+---
+
+## 🧩 Konsep Utama
+- **Participants**: pelanggan, regulator, pemerintah, dll
+- **Transactions**: perpindahan aset (dihubungkan dengan kontrak)
+- **Smart Contract**: otomatisasi kontrak tanpa perantara
+- **Shared Ledger**: semua peserta bisa melihat data yang relevan
+
+---
+
+## ⚙️ Cara Kerja Blockchain
+1. Transaksi dibuat dan ditandatangani digital
+2. Diverifikasi oleh node → transaksi sah dikirim ke antrian
+3. Mining node membentuk blok → disebar ke jaringan
+4. Jika blok sah → ditambahkan ke rantai (blockchain)
+
+---
+
+## 💡 Kenapa Blockchain?
+- Transparansi dan kepercayaan otomatis
+- Data tidak dapat dimodifikasi (immutability)
+- Riwayat lengkap transaksi → traceability
+- Otomatisasi melalui smart contract
+
+---
+
+## 🛠️ Jenis Blockchain
+| Tipe | Karakteristik |
+|------|---------------|
+| **Public** | Terbuka, semua orang bisa akses (Bitcoin, Ethereum) |
+| **Private** | Diatur oleh entitas, terbatas (Supply Chain) |
+| **Hybrid** | Kombinasi public dan private untuk fleksibilitas |
+
+---
+
+## 🏢 Penggunaan di Bisnis
+- **Supply Chain**: transparansi, verifikasi asal barang
+- **Identitas Digital**: kontrol data pribadi, aman & tanpa perantara
+- **Aset Digital & NFT**: bukti kepemilikan, efisiensi transaksi
+- **Data Sharing**: enkripsi dan pengelolaan akses
+- **Smart Contract**: otomatisasi pembayaran, invoice, dsb
+
+---
+
+## 🏛️ Penggunaan di Pemerintahan
+- Efisiensi layanan publik
+- Transparansi dalam audit dan pengadaan
+- Verifikasi dokumen secara otomatis dan aman
+
+---
+
+## ⚠️ Tantangan & Keterbatasan
+- Skalabilitas dan performa transaksi
+- Masalah privasi data dalam sistem terbuka
+- Konsumsi energi tinggi (Proof of Work)
+- Tidak cocok untuk sistem dengan update/delete rutin
+
+---
+
+# 📘 Week 6 – Artificial Intelligence in Enterprise
+
+## 🎯 Tujuan Pembelajaran
+- Pengenalan AI dan penerapannya dalam konteks bisnis
+- Mengetahui aplikasi AI di berbagai bidang perusahaan
+- Mengenal tantangan dan etika dalam penggunaan AI
+- Studi kasus AI di perusahaan besar
+
+---
+
+## 🧠 Apa itu AI?
+- Simulasi kecerdasan manusia oleh mesin
+- Tujuan: membuat mesin yang bisa belajar, berpikir, dan mengambil keputusan
+
+### Jenis AI:
+- **ANI (Narrow AI)**: khusus tugas tertentu (chatbot, mesin pencari)
+- **AGI (General AI)**: setara manusia, belum tercapai
+- **Generative AI**: membuat konten baru (ChatGPT, Midjourney)
+
+---
+
+## 📊 Machine Learning: A → B Mapping
+- Contoh: 
+  - Email → spam/tidak
+  - Gambar → ada cacat atau tidak
+  - Kata → prediksi kata berikutnya
+
+### LLM (Large Language Model)
+- Dilatih dengan prediksi kata selanjutnya
+- Contoh: "My favorite drink is..." → "lychee bubble tea"
+
+---
+
+## 🏢 Penerapan AI dalam Bisnis
+- **Customer Service**: chatbot, prediksi kebutuhan
+- **Data Analysis**: tren pasar real-time
+- **Supply Chain**: prediksi kebutuhan, efisiensi pengiriman
+- **Marketing & Sales**: personalisasi kampanye
+- **HR**: seleksi kandidat, prediksi turnover
+
+---
+
+## 🧭 Transformasi AI dalam Perusahaan
+- AI bukan sekadar tambahan → bagian inti bisnis modern
+- Strategi meliputi:
+  1. Pilot project
+  2. Tim AI internal
+  3. Pelatihan luas
+  4. Strategi AI
+  5. Komunikasi internal-eksternal
+
+---
+
+## ⚖️ Tantangan & Etika AI
+- **Privasi Data**: penggunaan data sensitif
+- **Bias Algoritma**: hasil diskriminatif jika datanya bias
+- **Biaya Implementasi**: butuh investasi besar
+- **Dampak Tenaga Kerja**: risiko kehilangan pekerjaan
+
+---
+
+## 🧪 Studi Kasus AI
+- **Amazon**: otomatisasi gudang, rekomendasi, logistik
+- **IBM Watson**: diagnosa medis
+- **Coca-Cola**: analisis perilaku konsumen
+- **Tesla**: sistem autopilot & manufaktur otomatis
+
+---
+
+## 🔍 Tren Mendatang: Explainable AI
+- Fokus pada transparansi dalam pengambilan keputusan AI
