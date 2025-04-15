@@ -131,3 +131,122 @@ Representasi sistem (fungsi, perangkat keras, perangkat lunak, dan interaksi man
 - Silo tidak efektif → perlu integrasi sistem
 - Integrasi mendukung efisiensi dan kolaborasi
 - Manajemen harus aktif dalam desain arsitektur sejak awal proyek
+
+# 📘 Week 3 – ERP Life Cycle & Implementation Strategy
+
+## 🎯 Tujuan Pembelajaran
+- Memahami SDLC dan ERP Life Cycle
+- Mengetahui komponen ERP
+- Menyadari perlunya produk pihak ketiga
+- Mengenal pendekatan implementasi ERP
+
+---
+
+## 🔁 SDLC (System Development Life Cycle)
+- Proses sistematis untuk merancang, membangun, dan menjalankan sistem informasi.
+- Digunakan untuk menghindari kegagalan proyek besar.
+
+---
+
+## 🌀 Perbedaan ERP vs Software Biasa
+| ERP | Software Biasa |
+|-----|----------------|
+| Miliaran rupiah | Ratusan ribu - jutaan |
+| Misi kritikal | Mendukung produktivitas |
+| Butuh waktu tahunan | Bisa langsung digunakan |
+| Perlu manajemen perubahan total | Hanya pelatihan dasar |
+| Perlu vendor, konsultan, karyawan | Dukungan minimal |
+
+---
+
+## 📊 Tahapan Siklus Hidup ERP Tradisional
+1. **Scope & Commitment**: studi kelayakan, rencana jangka pendek & panjang, komitmen top management.
+2. **Analysis & Design**: analisis kebutuhan pengguna, perencanaan konversi data dan pelatihan.
+3. **Acquisition & Development**: beli lisensi, konfigurasi sistem, konversi data, implementasi keamanan.
+4. **Implementation**: sistem mulai digunakan, pendekatan konversi:
+   - *Phased, Pilot, Parallel, Big Bang*
+5. **Operation**: handover ke tim support, training lanjutan, patch & upgrade.
+
+---
+
+## 🛠️ Komponen ERP
+- **Hardware**: server, client, jaringan, printer
+- **Software**: OS, DBMS, software aplikasi (pengembangan, pemantauan)
+- **People**: end-users, IT, project manager, konsultan
+
+---
+
+## 🔌 Produk Pihak Ketiga
+- Software tambahan yang mendukung distribusi laporan, SSO, pemantauan, dll.
+- Tidak terintegrasi langsung, tapi wajib berjalan lancar bersama ERP.
+
+---
+
+## 🧑‍💼 Organisasi Implementasi ERP
+- **Pemilik Proyek**: senior management
+- **Executive & Steering Committee**
+- **Project Team**: fungsi, infrastruktur, pengembangan, konversi, reporting
+- **Change Management Team**
+
+---
+
+## 🚦 Strategi Implementasi
+1. **Comprehensive**: full fitur ERP, termasuk modul industri → perlu banyak BPR
+2. **Middle-of-the-Road**: sebagian BPR dan kustomisasi
+3. **Vanilla**: tanpa modifikasi sistem → ubah proses agar cocok dengan ERP
+
+---
+
+## 📌 Implikasi untuk Manajemen
+- Komitmen top management sangat penting
+- Minimalkan kustomisasi
+- Fokus pada komunikasi, pelatihan, dan manajemen perubahan
+
+---
+
+# 📘 Week 4 – Software & Vendor Selection
+
+## 🎯 Tujuan Pembelajaran
+- Memahami proses pembelian sistem ERP
+- Mengetahui langkah-langkah negosiasi kontrak vendor
+
+---
+
+## 🛒 Proses Pembelian ERP
+1. **Vendor Research**: buat shortlist vendor, libatkan user dan SME
+2. **Vendor Demonstrations & Evaluation**: gunakan "sandbox" demo
+3. **Needs & Requirements Assessment**: buat flow dan tabel kebutuhan fungsional
+4. **Request for Bid (RFB/RFP)**: minta proposal lengkap dari vendor
+5. **Release RFB to Vendors**
+6. **Vendor Analysis & Elimination**: analisa TCO, evaluasi kontrak, teknologi, fungsi
+7. **Negotiation**: bahas lisensi, layanan, pihak yang bertanggung jawab
+8. **Purchase System**
+
+---
+
+## 📝 Isi RFB/RFP
+- Tipe ERP yang diinginkan
+- Spesifikasi infrastruktur
+- Kebutuhan pelatihan
+- Isu kontrak khusus perusahaan
+
+---
+
+## 🤝 Negosiasi & Kontrak
+- Fokus pada hak customer dalam otorisasi dan penerimaan
+- Tunjuk *contract monitor* untuk jaga kepatuhan
+- Perubahan kontrak hanya bila perlu dan disepakati bersama
+
+---
+
+## 📌 Implikasi untuk Manajemen
+- Manajemen harus ikut evaluasi & demo sistem
+- Wajib diskusi arah pengembangan sistem ke depan
+- Negosiasi ke 2 vendor hasilkan harga lebih baik
+
+---
+
+## 🧾 Ringkasan
+- Tahapan: riset → kebutuhan → RFI → RFB → seleksi → kontrak
+- TCO jadi penilaian utama
+- Dokumen, diskusi, dan demo penting untuk keputusan pembelian
